@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+      <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1273C4"/><stop offset="1" stop-color="#0D9E47"/></linearGradient></defs>
+      <rect width="1200" height="900" fill="#eef2f3"/>
+      <rect x="70" y="70" width="1060" height="760" rx="28" fill="url(#g)" opacity=".92"/>
+      <rect x="135" y="155" width="930" height="520" rx="20" fill="#fff" opacity=".9"/>
+      <path d="M190 610h820M190 560h680M190 510h770" stroke="#0B2D5B" stroke-width="18" opacity=".18" stroke-linecap="round"/>
+      <circle cx="900" cy="300" r="120" fill="#fff" opacity=".82"/>
+      <path d="M840 320c30-75 90-100 145-105-14 75-52 130-128 150" fill="none" stroke="#1273C4" stroke-width="28" stroke-linecap="round"/>
+      <text x="155" y="750" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#0B2D5B">A HIGHER STANDARD OF CLEAN</text>
+      <text x="155" y="792" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#0B2D5B" opacity=".72">Editorial placeholder — replace with real SK photography.</text>
+    </svg>
